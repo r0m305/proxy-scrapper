@@ -5,6 +5,7 @@
 /_/                    /____/                       /_/   /_/             
 
 running:
+python3 -m pip install -r requirements.py
 chmod +x proxy-scrapper.py
 python3 proxy-scrapper.py
 
